@@ -21,13 +21,13 @@ Os modelos foram implementados de duas formas **lung_cancer_survival_prediction.
 
 ## Requisitos 
 
-pandas
-matplotlib
-seaborn
-scikit-learn
-imblearn
-chardet
-openpyxl
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Scikit-learn](https://scikit-learn.org/)
+- [Imblearn](https://imbalanced-learn.org/)
+- [Chardet](https://pypi.org/project/chardet/)
+- [Openpyxl](https://openpyxl.readthedocs.io/)
 
 ```sh
 pip install pandas matplotlib seaborn scikit-learn imbalanced-learn chardet openpyxl
