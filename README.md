@@ -19,9 +19,23 @@ Foram implementados cinco algoritmos de Machine learnig para analisar qual obtem
 
 Os modelos foram implementados de duas formas **lung_cancer_survival_prediction.ipynb**, sem aplicar customização de parâmetros e **lung_cancer_survival_prediction_with_tunning.ipynb** aplicando ferramentas para identificar qual a melhor configuração para rodar os algoritmos para o conjunto de dados.
 
-# About the Authors
+## Requisitos 
 
-Isabel H. Manssour - Professor Coordinator of DaVInt - 2017-current.  
-Rodrigo Henrich - Master Student in Computer Science - 2023-2025.  
-More information can be found [here](https://www.inf.pucrs.br/davint/).
+pandas
+matplotlib
+seaborn
+scikit-learn
+imblearn
+chardet
+openpyxl
+
+```sh
+pip install pandas matplotlib seaborn scikit-learn imbalanced-learn chardet openpyxl
+```
+
+# Sobre os autores
+
+Isabel H. Manssour - Professor coordenadora do DaVInt - 2017-current.  
+Rodrigo Henrich - Mestrando em ciência da computação - 2023-2025.  
+Mais informações podem ser encontradas [aqui](https://www.inf.pucrs.br/davint/).
 
